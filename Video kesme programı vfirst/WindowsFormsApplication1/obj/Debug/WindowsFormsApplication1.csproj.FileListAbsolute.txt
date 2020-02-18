@@ -1,0 +1,111 @@
+c:\users\üçgül\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\üçgül\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\üçgül\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+c:\users\üçgül\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+c:\users\üçgül\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+c:\users\üçgül\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\üçgül\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\üçgül\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\üçgül\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\üçgül\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\üçgül\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+c:\users\üçgül\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+c:\users\üçgül\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\üçgül\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\L222-01\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\L222-01\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\L222-01\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\L222-01\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\L222-01\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\L222-01\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\L222-01\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\L222-01\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\L222-01\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\L222-01\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\L222-01\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\L222-01\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\L222-01\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\L222-01\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\a11a\acık kaynak işletim sistemi yazılacaklar\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\a11a\acık kaynak işletim sistemi yazılacaklar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+D:\a11a\acık kaynak işletim sistemi yazılacaklar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+D:\a11a\acık kaynak işletim sistemi yazılacaklar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\a11a\acık kaynak işletim sistemi yazılacaklar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\a11a\acık kaynak işletim sistemi yazılacaklar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\a11a\acık kaynak işletim sistemi yazılacaklar\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\a11a\acık kaynak işletim sistemi yazılacaklar\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\a11a\acık kaynak işletim sistemi yazılacaklar\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+D:\a11a\acık kaynak işletim sistemi yazılacaklar\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+D:\a11a\acık kaynak işletim sistemi yazılacaklar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\a11a\acık kaynak işletim sistemi yazılacaklar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\a11a\acık kaynak işletim sistemi yazılacaklar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\a11a\acık kaynak işletim sistemi yazılacaklar\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+E:\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+E:\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\A11A\projeler\Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\A11A\projeler\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+D:\A11A\projeler\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+D:\A11A\projeler\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\A11A\projeler\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\A11A\projeler\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\A11A\projeler\Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\A11A\projeler\Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\A11A\projeler\Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+D:\A11A\projeler\Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+D:\A11A\projeler\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\A11A\projeler\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\A11A\projeler\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\A11A\projeler\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Yeni klasör\Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Yeni klasör\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+E:\Yeni klasör\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+E:\Yeni klasör\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\Yeni klasör\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Yeni klasör\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Crea\Desktop\Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Crea\Desktop\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Crea\Desktop\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Crea\Desktop\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Crea\Desktop\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Crea\Desktop\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Crea\Desktop\Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Crea\Desktop\Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Crea\Desktop\Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Crea\Desktop\Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Crea\Desktop\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Crea\Desktop\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Crea\Desktop\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Crea\Desktop\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+F:\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+F:\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+F:\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+F:\Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\Desktop\flash dosyası\ \Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lenovo\Desktop\flash dosyası\ \Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lenovo\Desktop\flash dosyası\ \Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lenovo\Desktop\flash dosyası\ \Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\Desktop\flash dosyası\ \Video kesme programı vfirst\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\Desktop\flash dosyası\ \Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\flash dosyası\ \Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\Desktop\flash dosyası\ \Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\Desktop\flash dosyası\ \Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\lenovo\Desktop\flash dosyası\ \Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\lenovo\Desktop\flash dosyası\ \Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\flash dosyası\ \Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\flash dosyası\ \Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\flash dosyası\ \Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lenovo\Desktop\flash dosyası\ \Video kesme programı vfirst\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
